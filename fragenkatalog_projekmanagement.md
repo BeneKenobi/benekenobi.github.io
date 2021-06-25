@@ -289,3 +289,104 @@ Es werden Kleinteile für 1000 € auf Dollarbasis auf Ziel eingekauft. Aufgrund
 5. __Risikoverminderung:__
 Im Rahmen eines Projektcontrolling werden die Kosten permanent beobachtet. Das Risiko einer Kostenüberschreitung wird durch das Controlling gemindert.
 
+## 26) Der Projektleiter für den Kongress „Industrielle Digitalisierung“ stellt einen Terminverzug im Arbeitspaket „Rahmenprogramm organisieren“ fest, weil die dafür zuständige Projektmitarbeiterin Olivia Hess zu wenig Zeit für das Projekt einsetzen kann. Schlagen Sie zwei konkrete Steuerungsmaßnahmen für dieses Arbeitspaket vor
+
+### Generell
+
+#### Aufwandsreduzierung
+
+- Suche nach technischen Alternativen
+- Lizenzen und Know-how kaufen
+- Zukauf von Teilprodukten
+- Alternative Lieferanten
+- Anpassung der Prozesse
+- Nicht zwingende Arbeitspakte out-of-scope nehmen
+
+#### Produktivitätserhöhung
+
+- Ausbildung des Teams
+- Austausch einzelner Mitarbeiter
+- Staffing mit Spezialisten
+- Erhöhung Information und Kommunikation
+- Aufgabenverschiebungen
+- Infrastruktur des Projektes verbessern
+- Team räumlich zusammenführen
+
+#### Leistungsveränderung
+
+- Leistungsreduktion
+- Versionenbildung (mit versteckter Leistungsreduktion)
+- Einschränkung der geforderten Qualität
+- Prioritätsänderung der Leistundmerkmale
+- Ablehnung von Änderungswünschen
+- Provokation von Änderungswünschen mit versteckter Budgeterweiterung
+
+#### Kapazitätsvergrößerung
+
+- Personalressourcenbasis vergrößern
+- Einbindung zusätzlicher Ressourcen des Kunden
+- Zukauf externer Kapazität
+- Lieferantenwechsel
+- Überstundenvereinbarung
+- Mehrschichtbetrieb
+
+## 27) Erläutern Sie die notwendigen Aspekte, die ein Projektleiter hinsichtlich des Reporting berücksichtigen sollte
+
+Dient zur Absicherung des Projektleiters
+
+- Abweichungen im Projektverlauf dokumentieren (Permanenter Soll-Ist-Vergleich)
+- Strukturierte und standardisierte Kommunikation über den aktuellen Projektstatus an relevate Zielgruppen (z.B. Projektauftraggeber, Projektlenkungsausschuss, Projektteam,etc.)
+- Laufende schriftliche Dokumentation des aktuellen Projektfortschritts
+
+Es müssen folgende Punkte definiert werden
+
+- Was wird berichtet
+- An wen wird bereichtet
+- In welchen Zeitabständen wird berichtet
+- Art der Informationen (Form, Struktur, Medium)
+- Aufbau der Reports
+
+## 28) Erläutern Sie die Einsatzmöglichkeiten einer Meilensteintrendanalyse im Rahmen eines Projektes Ihrer Wahl
+
+Die Meilensteintrendanalyse ist eine Methode zur Prognose und Steuerung von Terminen im Projekt. Die geplanten Meilensteintermine werden zu bestimmten Berichtszeitpunkten überprüft.
+
+Meilensteine sind wichtige Punkte im Projekt, an denen definierte Ergebnisse vorliegen sollen. Oft stellen diese Meilensteine auch einen Prüfpunkt dar, an denen über die Fortführung des Projektes entschieden wird.
+
+Sie wird regelmäßig durchgeführt, um immer einen Überblick darüber zu haben, ob die geplanten Termine eingehalten werden, oder ob es Abweichungen gibt.
+
+Besonders wirkungsvoll ist die grafische Darstellung, denn anhand der entstehenden Verbindungslinien Trends abgeleitet werden:
+
+- Horizontale Linien bedeuten, dass die Termine wie geplant eingehalten werden.
+- Steigende Linien bedeuten eine Verzögerung des Meilensteins.
+- Fallende Linien bedeuten ein früheres Erreichen des Meilensteins.
+
+Wenn frühzeitig Trends erkannt werden, können ggf. Gegenmaßnahmen zur Einhaltung von Terminen eingeleitet werden.
+
+## 29) Cornelia Vetsch leitet das Projekt „Aufbau des Produktmanagements“ für einen Möbelproduzenten von Betten, Tischen und Schränken. Die Möbel werden in der gesamten Schweiz sowie in Deutschland und den Niederlanden an ausgesuchte Möbelhandelsgeschäfte verkauft. Machen Sie Cornelia Vetsch einen Vorschlag, wie sie dieses Projekt sinnvollerweise gliedern könnte, und begründen Sie Ihren Vorschlag in ein paar Sätzen
+
+Ich kenne mich im Möbelbusiness nicht aus.
+
+## 30) Die Flex-Cut GmbH produziert elektronische Sägen für Privathaushalte und Unternehmen. Das Unternehmen beschäftigt weltweit 8.000 Mitarbeitende. Der Exportanteil beträgt 80 %. Das Unternehmen bezieht von 400 global verteilten Lieferanten Teile zur Produktion einer elektronischen Großsäge im Rahmen eines Spezialauftrags von mehreren Recyclingunternehmen. Die weltweite Absatzpolitik wird mit 50 Logistikdienstleistern abgewickelt
+
+### a) Erläutern Sie vier Risiken, die bei der Flex-Cut GmbH eine Rolle spielen könnten
+
+Risiko 1: Wirtschaftliches Risiko: Da bei der Flex-Cut GmbH der Exportanteil 80 % beträgt, unterliegt das Unternehmen Kursschwankungen bei Währungen, die Auswirkungen auf den Umsatz haben könnten.
+
+Risiko 2: Transportrisiko: Das Unternehmen betreibt Global Sourcing mit 400 weltweit verteilten Lieferanten.
+
+Risiko 3: Koordinationsrisiko: 50 Logistikdienstleister wickeln die Absatzlogistik der Großsäge für mehrere Recyclingunternehmen ab.
+
+Risiko 4: Ressourcenrisiko: Projektleiter wird krank.
+
+### b) Stellen Sie die ermittelten Risiken mit Eintrittswahrscheinlichkeit, Schadenhöhe, ABC-Risiko, Maßnahmen/Strategien und Verantwortlichkeit in einer Tabelle sowie einer Grafik dar. (Ordinate: Eintrittswahrscheinlichkeit, Abzisse: Schadenhöhe)
+
+| Risiko                                  | Eintrittswahrscheinlichkeit    | ABC-Risiko  (A-Risiko: 80 % - 100 %; B-Risiko: 40 % - 79 %; C-Risiko: kleiner 40 %) | Maßnahmen/Strategien                                                                                                               | Schadenhöhe   (exemplarische Annahmen) | Verantwortlich |
+|-----------------------------------------|--------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|----------------|
+| Wechselkursschwankungen                 | 60 %                           | B                                                                                   | Devisensicherungsgeschäft abschließen                                                                                              | 100.000 €                              | Fr. Müller     |
+| Transportrisiken durch Global Sourcing  | 85 %                           | A                                                                                   | 30 % der globalen Lieferanten sollen in den nächsten zwei Jahren durch regionale Lieferanten im Umkreis von 200 km ersetzt werden. | 500.000 €                              | Hr. Schneider  |
+| Koordinationsrisiko                     | 90 %                           | A                                                                                   | Zahl der Logistikdienstleister sofort um 50 % reduzieren                                                                           | 300.000 €                              | Fr. Huber      |
+| Projektleiter wird krank                | 20 %                           | A                                                                                   | Es werden zwei Stellvertretende des Projektleiters ernannt                                                                         | 10.000 €                               | Fr. Früh       |
+
+### c) Erläutern Sie, welche Aspekte die Geschäftsleitung des Unternehmens einleiten sollte, um Risikomanagement in Projekten zu etablieren
+
+Die Geschäftsleitung sollte den Mitarbeitenden in den Projekten Schulungen zum Risikomanagement anbieten. Darüber hinaus sollte die Geschäftsleitung Risikomanagement im Sinne einer Vorbildfunktion vorleben. Zudem können Anreizsysteme entwickelt werden, um einen Impuls bei den Mitarbeitenden zu setzen, dass ein Risikobewusstsein sowie die Behandlung von Risiken die unternehmerische Existenz und die Arbeitsplätze sichern können. Auch die Förderung von Kommunikation, die Etablierung von regelmäßigen Workshops sowie Mitarbeitergespräche der Projektleitung können dazu beitragen, eine Sensibilisierung für Risiken zu erreichen. Es kann ein Leitfaden zur Abwicklung von Risikomanagement entwickelt werden, der Checklisten enthält.
