@@ -27,7 +27,7 @@ url: "https://benekenobi.github.io" # the base hostname & protocol for your site
 github_username:  benekenobi
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 
 plugins:
 
