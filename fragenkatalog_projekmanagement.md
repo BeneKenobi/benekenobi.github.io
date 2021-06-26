@@ -639,7 +639,13 @@ Bei SCRUM werden einzelne Aufgaben in höherem Tempo und mit geringerem Aufwand 
 
 ### 1) Erläutern Sie ein Projektvorhaben in Ihrem Unternehmen. Beschreiben Sie das Projekt in wenigen Sätzen anhand der relevanten Merkmale. Analysieren Sie anhand des gewählten Projektes, welche internen oder externen Triebkräfte dieses ausgelöst haben. Was sind die Hintergründe der Notwendigkeit der Veränderung/Verbesserung/Anpassung/Entwicklung und welche Probleme haben dazu geführt?
 
+Projekt "Beschleunigung des Beratungsprozesses des Instituts für Humangenetik (Medizinische Hochschule Hannover) durch Ausweitung der IT-Unterstützung". In der Patientenberatung werden Patienten in das Institus-eigene Verwaltungssystem aufgenommen. Zudem wird eine Genetische Estberatung durchgeführt und mit dem Patienten entschieden, welche, bzw. ob genetische Untersuchungen notwendig sind. Der gesamte Prozess soll beschleunigt werden. Externe Triebkraft für das Projekt sind anstehende Zertifizierungen. Diese erfordern gewisse (kurze) durchlaufzeiten, um den Patienten möglichst wenig warten zu lassen. Diese Zertifizierungen sorgen dafür, dass das Institut Fördergelder erhält. Auf diese ist das Institut angewiesen, um seine Forschung in der genetischen Diagnostik durchzuführen.
 
+Vor dem Projekt lag die durchschnittliche Durchlaufzeit bei der Aufnahme bei 25 Minuten, nur 5 Minuten unter dem erlaubten Maximum für die Zertifizierung von 30 Minuten.
+
+Eine wichtige Verbesserung war z.B. das erzeugen von Etiketten mit QR-Codes für jeden Patienten. Diese werden dann auf alle Papier-Dokumente geklebt die in der elekt. Akte des Patienten hinterlegt werden sollen. Ein anschließendes Scannen ordnet die Dokumente dann vollautomatisch im IT-System dem Patienten zu. Dadurch entfällt die zeitaufwändige, manuelle Zuordnung nach einem Scan.
+
+Durch diese, und weitere Teilverbesserungen im Prozess, wie z.B. bessere parallelisierung mancher Abläufe, konnte die durchschnittliche Prozessdurchlaufzeit auf 15 Minuten reduziert werden.
 
 ### 2) Erstellen Sie einen Projektstrukturplan für ein Projekt Ihrer Wahl. Erläutern Sie hierbei auch, warum Sie sich für einen speziellen Typus entschieden haben und die grundsätzliche Wichtigkeit eines PSP
 
