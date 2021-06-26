@@ -46,10 +46,10 @@ Auch der Abschluss besteht aus einzelnen Punkten einer Phase, nicht einem festen
 
 ## 7) Lukas Meier ist Abteilungsleiter in einer größeren Landschaftsgärtnerei. Er hat den Projektauftrag erhalten, das Management des Lastwagenfurhparks zu untersuchen. Für Lukas Meier ist klar, wen er aus seinem Team befragen will: Linda, Markus und Sandro, die einen besonders großen Einfluss auf die Meinungsbildung unter den Mitarbeitenden haben. Zu welchen Stakeholdergruppen gehören Linda, Markus und Sandro? Es sind mehrere Zuordnungen möglich
 
-1. Interne Kunden_X_
-2. Nutzer _X_
+1. Interne Kunden _X_
+2. Nutzer
 3. Entscheider
-4. Anwender
+4. Anwender _X_
 5. Opinionleader _X_
 
 ## 8) Welche Fragen sind bei der Projektumfeldanalyse zu untersuchen?
@@ -389,4 +389,267 @@ Risiko 4: Ressourcenrisiko: Projektleiter wird krank.
 
 ### c) Erläutern Sie, welche Aspekte die Geschäftsleitung des Unternehmens einleiten sollte, um Risikomanagement in Projekten zu etablieren
 
-Die Geschäftsleitung sollte den Mitarbeitenden in den Projekten Schulungen zum Risikomanagement anbieten. Darüber hinaus sollte die Geschäftsleitung Risikomanagement im Sinne einer Vorbildfunktion vorleben. Zudem können Anreizsysteme entwickelt werden, um einen Impuls bei den Mitarbeitenden zu setzen, dass ein Risikobewusstsein sowie die Behandlung von Risiken die unternehmerische Existenz und die Arbeitsplätze sichern können. Auch die Förderung von Kommunikation, die Etablierung von regelmäßigen Workshops sowie Mitarbeitergespräche der Projektleitung können dazu beitragen, eine Sensibilisierung für Risiken zu erreichen. Es kann ein Leitfaden zur Abwicklung von Risikomanagement entwickelt werden, der Checklisten enthält.
+Die Geschäftsleitung sollte den Mitarbeitenden in den Projekten Schulungen zum Risikomanagement anbieten. Darüber hinaus sollte die Geschäftsleitung Risikomanagement im Sinne einer Vorbildfunktion vorleben. Zudem können Anreizsysteme entwickelt werden, um einen Impuls bei den Mitarbeitenden zu setzen, dass ein Risikobewusstsein sowie die Behandlung von Risiken die unternehmerische Existenz und die Arbeitsplätze sichern können. Auch die Förderung von Kommunikation, die Etablierung von regelmäßigen Workshops sowie Mitarbeitergespräche der Projektleitung können dazu beitragen, eine Sensibilisierung für Risiken zu erreichen. Es kann ein Leitfaden zur Abwicklung von Risikomanagement entwickelt werden, der u.a. Checklisten enthält.
+
+## 31) Projektleiter Wanterkant überlegt, dass er für die Teilaufgabe „Schiffsrumpf“ mehrere Arbeitspakete definieren und zwei Mitarbeiter einsetzen möchte. Dem Projektleiter liegen die Informationen vor, dass sich Dipl.-Ing. Maier nur an zwei Tagen in der Woche im Projekt engagieren kann. In der ersten KW besucht Dipl.-Ing. Huber ein Seminar und in der KW 3 hat er eine Woche Urlaub, da seine Frau ihr erstes Kind erwartet. Zudem kann Dipl.-Ing. Huber pro Woche maximal vier Tage im Projekt eingesetzt werden. Erstellen Sie für Dipl.-Ing. Maier und Dipl.-Ing. Huber jeweils ein Ressourcenhistogramm
+
+-
+
+## 32 Die Projektleiterin für das neue "Corporate Design" legt Ihnen den Projektzwiscenbericht per 31 August vor und präsentiert dazu das folgende Arbeitsfortschrittsdiagramm
+
+__DIAGRAMM FEHLT__
+
+### a) Komemntieren Sie das Arbeitsfortschrittsdiagramm in eigenen Sätzen
+
+Das Diagramm zeigt, dass während der Sommermonate Mai-Juli der Soll-Fortschritt unter dem Ist-Fortschritt lag. Verantworlich dafür war eine nicht entsprechend den Erwartungen gestiegener Fortschritt im Mai, der erst im August wieder aufgeholt werden konnte und dann Ende August über dem Soll steht.
+
+### b) Formulieren Sie mindestens eine Frage, die Sie der Projektleiterin zu ihrem Zwischenbericht per 31.08. stellen würden
+
+Welche Probleme sind im Mai aufgetreten die den Fortschritt nicht wie erwartet haben steigen lassen? Welche Maßnahmen wurden getroffen um den Rückstand wieder aufzuholen?
+
+## 33) Der Auftraggeber eines Projekts streicht den Budgetposten "Abschlussveranstaltung", weil er deren Sinn und Zweck nicht einsieht. Nennen Sie dem Auftraggeber mindestens zwei Argumente, die für eine offizielle Abschlussveranstaltung in Projekten sprechen
+
+Mit einem professionellen Projektabschluss bleibt das Projekt sowohl dem Auftraggeber als auch den Mitarbeitern in positiver Erinnerung, wodurch der Projekterfolg noch einmal gesteigert wird. 
+
+Ziel der Projektabschlussphase ist es, das Projekt vollständig abgeschlossen zu haben. Wichtige Erkenntnisse, die im Laufe des Projektes gewonnen wurden, sind gesichert und es wurde ein Projektabschlussbericht erstellt. Das Projektteam wurde vom Auftraggeber entlastet und alle Kostenträger wurden geschlossen. All dies sollte auf einer Abschlussveranstaltung festgehalten werden.
+
+## 34) Erläutern Sie, welcher grundsätzliche Zusammenhang zwischen dem Abschluss eines Projekts und dem Wissensmanagement besteht. Erklären Sie auch, wie diese Schnittstelle organisiert werden könnte
+
+In der Praxis wird nicht in vollem Umfang erkannt, dass sich speziell in der Phase des Projektabschlusses für künftige Projekte notwendiges Wissen gezielt dokumentieren und entwickeln lässt. Das Nutzenpotenzial von Wissensmanagement in Projektkrisen wird tendenziell unterschätzt.
+
+Wissen dokumentieren und strukturieren zählt zu den Kernaufgaben von Wissensmanagement im Projektmanagement. Ebenso sollte im Projektabschluss ein Projektabschlussbericht erstellt werden.
+
+## 35) Vergleichen Sie das Wasserfallmodell und das Spiralmodell. Stellen Sie Stärken und Schwächen der beiden Ansätze dar
+
+### Allgemein
+
+Das Wasserfallmodell ist ein relativ linearer sequentieller Entwurfsansatz zur Entwicklung von Softwareprojekten.
+
+Das Spiralmodell ist ein risikoorientierter Prozessmodellgenerator für Softwareprojekte.
+
+### Einbeziehung des Kunden
+
+#### Wasserfallmodell
+
+Im Wasserfallmodell ist die Kundenbeteiligung während der Durchführung minimal.
+
+#### Spiralmodell
+
+Im Spiralmodell ist die Kundenbindung hoch. Der Kunde ist sich während der Durchführung bewusst, was das Produkt ist, bzw. kann noch bestimmte Parameter beeinflussen.
+
+### Fluss der Phasen
+
+#### Wasserfallmodell
+
+Im Wasserfallmodell ist es nicht möglich, nach Abschluss einer Phase und Erreichen einer neuen Phase zur vorherigen Phase zurückzukehren.
+
+#### Spiralmodell
+
+Das Spiralmodell arbeitet mit Iterationen, so dass zu vorherigen Phasen zurückkgekehrt werden kann, bzw. viele Phasen automatisch immer wieder durchlaufen werden.
+
+### Verwendungszweck
+
+#### Wasserfallmodell
+
+Das Wasserfallmodell kann für kleine Projekte und für Projekte mit klaren Anforderungen verwendet werden.
+
+#### Spiralmodell
+
+Das Spiralmodell kann für große, komplexe Projekte verwendet werden, die eine kontinuierliche Risikoanalyse bzw. Schärfung des Ziels erfordern.
+
+### Einfachheit
+
+#### Wasserfallmodell
+
+Das Wasserfallmodell ist einfach und leicht.
+
+#### Spiralmodell
+
+Das Spiralmodell ist ein komplexes Modell.
+
+## 36) Stellen Sie dar, worin die Unterschiede und Gemeinsamkeiten von Projektstrukturplan und dem Product Backlog in Scrum bestehen
+
+In der klassischen Welt wird zum Beispiel von Projektstrukturplan und Arbeitspaketen gesprochen. In der agilen Welt wird von Product oder Sprint Backlog und User Stories gesprochen.
+
+Grundsätzlich versuchen beide Methoden, Arbeit in handhabbare Arbeitsstücke herunterzubrechen. Der Unterschied besteht darin, dass im klassischen Ansatz das gesamte Projekt bereits vorab geplant und geschätzt wird. Beim agilen Ansatz wird oft nur die Arbeit für die nächsten Sprints konkret geplant, also für die nächsten Wochen bis Monate (je nach Sprintlänge).
+
+## 37) Erklären Sie mit Hilfe von selbstgewählten Beispielen die unterschiedlichen Ansätze zur Bestimmung des Fertigstellungsgrades.
+
+### Statusschritt-Technik (auch: Meilenstein-Technik)
+
+- Erfordert Statusschritte (konkrete Zwischenergebnisse, ähnlich Meilensteinen)
+- Den einzelnen Statusschritten wird ein bestimmter Fortschrittsgradzuwachs zugeordnet
+- Der Fortschrittsgradzuwachs wird erst nach vollständiger Erledigung des jeweiligen Statusschrittes und nur bei positivem Ergebnis angerechnet
+- Neben der Mengenproportionalität objektivste Fortschrittsgrad- Messtechnik
+- Statusschritte können als Ersatz dezidierter Messgrößen verwendet werden
+
+### 50-50-Verfahren
+
+- Verwendet wenn: Die Bearbeitung der Betrachtungseinheit bedingt Vorleistungen.
+- Zu deren Berücksichtigung wird schon bei Beginn der Fortschrittsgrad von 50 % angerechnet.
+- Zeitdauer der Betrachtungseinheit sollte nicht zu lang sein. ▪ Auch dann sinnvoll, wenn Leistungsteile nicht explizit als
+- Leistungspositionen auftauchen, aber dennoch einem Teilbereich implizit zugeschrieben werden. (z.B. Planungsunterlagen)
+
+### 0-100-Verfahren
+
+- Für den Projektteilbereich (Betrachtungseinheit) wird bis zu seinem Abschluss kein Fortschrittsgradzuwachs definiert.
+- Erst bei vollständiger Abarbeitung wird ein Fortschrittsgrad von 100 % angerechnet.
+- Restriktives Verfahren mit hoher Vorsicht.
+- Sollte nur bei Betrachtungseinheiten mit kurzer Dauer verwendet werden.
+- Je tiefer ein Projekt gegliedert und damit je kürzer die Zeitdauern der Betrachtungseinheiten, desto objektiver ist das Verfahren.
+- Aber: Psychologische Probleme beachten. Bei länger andauernden Arbeitspaketen kann kein Fortschritt gemeldet werden.
+
+### Mengen-Proportionalität
+
+- Bei der Projektarbeit fallen mess- oder zählbare Ergebniseinheiten an.
+- Für die Betrachtungseinheit liegt eine zeit- und mengenbezogene Leistungsplanung vor.
+- Der Fortschrittgrad je Mengeneinheit ergibt sich aus dem Verhältnis einer Mengeneinheit zur geplanten Gesamtmenge bei gleichmäßiger Plan-
+Mengen-Verteilung über Zeitdauer der Betrachtungseinheit.
+- Der Fertigstellungswert je Mengeneinheit ergibt sich aus dem Fortschrittsgrad je Mengeneinheit multipliziert mit den geplanten Gesamtkosten.
+- Mengen-Änderung sind rein rechnerisch gut nachzuvollziehen
+- Gilt - neben der Statusschritt-Technik - als objektivste Methode der Fortschrittsmessung.
+
+### Sekundär-Proportionalität
+
+- Die Leistungserbringung und damit der Fortschrittsgrad einer Betrachtungseinheit 2 ist abhängig vom Fortschritt einer Betrachtungseinheit 1.
+- Zwischen den Fertigstellungswerten der beiden Betrachtungseinheiten besteht eine feste Relation, beispielsweise als Bruchteil- oder Prozentangabe.
+- Der Fortschrittsgrad der unabhängigen Betrachtungseinheit wird nach einer bereits vorgestellten objektiven Messtechnik ermittelt.
+- Auch Level of Effort (LOE) genannt
+
+Beispiele:
+
+- Qualitätssicherung im Engineering
+- Ausführungsbegleitende Prüfarbeiten/Dokumentation
+- Produktkontrollen nach Fertigung/Produktion
+- Montagesteuerung proportional zur Montage
+- Maschineneinsatz für Prüfungen
+- Overhead in Abhängigkeit von operativen Arbeiten
+
+### Schätzung
+
+- Für die Betrachtungseinheiten liegen keine oder lediglich verbal beschriebene Leistungsinhalte bzw. Arbeitsergebnisse ohne Bewertung- oder Maßgrößen vor.
+- Alle übrigen Messtechniken sind nicht verwendbar.
+- Es existieren keine Fortschrittsgrad-Vorgaben. Ist-Fortschrittsgrade bzw. Fertigstellungsgrade werden subjektiv eingeschätzt.
+- In der Praxis häufig vorzufinden.
+- Nur von Experten durchzuführen: Folgen müssen klar sein.
+
+### Zeit-Proportionalität
+
+- Für die Betrachtungseinheiten liegen nur globale Leistungsbeschreibungen vor. Die Arbeitsergebnisse sind im einzelnen nicht bewert- oder messbar
+- Als Ersatz für den nicht bestimmbaren Fortschrittsgrad fungiert das Verhältnis von abgelaufener Zeitdauer zur geplanten Gesamtdauer der Betrachtungseinheit
+  - Projektleitung/Bauleitung
+  - Projektmanagement
+  - Administrative Arbeiten
+  - Beratungstätigkeiten
+  - Geräte- und Maschineneinsatz auf Baustellen
+
+## 38) Stellen Sie den Zusammenhang zwischen Ablauf- und Terminplanung auf der einen Seite und der Einsatzmittelplanung auf der anderen Seite dar
+
+Der Ablauf- und Terminplan dient dazu, eine realistische Terminierung der Arbeitspakete vornehmen zu können und bildet außerdem die Basis für ein effektives Projektcontrolling. Zentraler Bestandteil der Ablauf- und Terminplanung sind die Meilensteine.
+
+Einsatzmittel-Planung ist die Ermittlung des Bedarfs an Ressourcen für ein Projekt gemäß Projektorganisation und Ablaufplan.
+
+## 39) Stellen Sie Pro- und Contra des agilen Projektmanagements am Beispiel von Scrum dar
+
+Vorteile:
+
+- Hohe Transparenz und rechtzeitiges Einlenken
+- Stärkt Teamgeist und fördert die Identifikation aller Beteiligten im Projekt
+- Stärkere Eigenverantwortung des Teams
+- Kontinuierlicher Verbesserungsprozess bspw. durch Retrospektiven
+- Wenige Regeln, leicht verständlich und leicht einführbar
+- Zeitnahe Realisierung von Produktbestandteilen (Increments)
+
+Nachteile:
+
+- Geringe Planbarkeit (Kosten und Zeit nicht definierbar)
+- Geringe Strukturierung innerhalb der Sprints
+- Höhere Belastung des Teams gegen Sprintende
+- Supportanfragen können nicht während des Sprints bearbeitet werden, es sei denn das Sprintziel wird gefährdet oder es wurde entsprechende Zeit vorgesehen
+- Zahlreiche Meetings (die aber durch striktes Timeboxing kurz gehalten werden können)
+
+## 40) Definieren Sie SCRUM im Rahmen agiler Projektmanagementmethoden und erläutern Sie wesentliche Rahmenbedingungen von SCRUM
+
+Scrum ist ein Rahmenwerk für die Zusammenarbeit von Teams basierend auf einer Definition von Rollen, Meetings und Werkzeugen, die einem Team Struktur und einen klar definierten Arbeitsprozess basierend auf agilen Prinzipien geben.
+
+## 41) Wird in SCRUM ein Projektleiter benötigt?
+
+Agile Methoden wie Scrum sehen die Rolle eines Projektleiters nicht vor.
+
+## 42) Welche Rollen könnten in SCRUM benötigt werden? Was wären die damit verbundenen Aufgaben?
+
+### Product Owner
+
+- Vergleichbar mit Produkt Manager: Produkt Verantwortlicher
+- Konsolidiert Anforderungen der Stakeholder
+- Verantwortlich für das finanzielle Ergebnis des Projekts (Return of Invest)
+- Definiert Produkteigenschaften (Anforderungen) und erstellt das Product Backlog
+- Priorisiert Elemente (Epics, User-Stories)
+- Erläutert dem Team die Elemente im Backlog
+- Ernannt vom Management
+- Entscheidet über Release Daten und den Umfang des Produkts
+- Passt Features und Prioritäten vor jeden Sprint an
+- Akzeptiert Ergebnisse oder weist sie zurück
+- Verteilt keine Aufgaben im Team
+
+## Scrum Master
+
+- Coacht das Team und räumt Hindernisse (Impediments) aus dem Weg
+- Verantwortlich für die Einhaltung der Scrum Werte und Praktiken
+- Schützt das Team vor äußeren Störungen
+- Stellt sicher, dass das Team produktiv ist
+- Unterstützt die Zusammenarbeit zwischen allen Rollen und Scrum Team Mitgliedern
+- Kein Projektmanager, d.h. keine Weisungsbefugnis
+- Übernimmt Verwaltungsaufgaben
+- Wird vom Team ernannt; ggf. wird ein Scrum Master vorgeschlagen, der vom Team akzeptiert werden muss
+
+## Entwicklungsteam
+- Schätzt Aufwände
+- Bestimmt die lieferbare Menge im Sprint
+- Entscheidet über technische Details
+- Organisiert sich selbst
+- Manager weist keine Arbeiten zu
+- Manager entscheidet nicht für das Team
+- Für das Lösen von Konflikten selbst verantwortlich
+- Liefert die am höchsten priorisierten Features als fertiges Ergebniss und stellt dies dem Product Owner vor
+- Funktionsübergreifend besetzt (Alle notwendigen Kenntnisse sollten im Team verfügbar sein: Entwickler, Business Analytiker, Tester etc.)
+- Größe nicht festgelegt aber typischer Weise 5-9 Mitglieder
+
+## 43) Inwiefern reduziert agiles Vorgehen Komplexität?
+
+In SCRUM wird die Komplexität dadurch reduziert, dass während eines Sprints, die Anforderungen „eingefroren“ werden, und somit eine „Wasserfall-artige“ Entwicklung im Sprint möglich ist.
+
+Durch die Präsentation der Ergebnisse des Sprints wird frühzeitig Feedback eingeholt, damit begegnet man der Unsicherheit der Anforderungen.
+
+Durch die Temas werden in Reviews regelmäßig die Ergebnisse, die Vorgehensweisen reflektiert, um sie effizienter zu gestalten
+
+Scrum versucht, die Komplexität durch drei Prinzipien zu reduzieren:
+
+Transparenz: Der Fortschritt und die Hindernisse eines Projektes werden täglich und für alle sichtbar festgehalten
+
+Überprüfung: In regelmäßigen Abständen werden Produktfunktionalitäten geliefert und beurteilt
+
+Anpassung: Die Anforderungen an das Produkt werden nicht ein und für alle Mal festgelegt, sondern nach jeder Lieferung neu bewertet und bei Bedarf angepasst.
+
+## 44) Wie wird in SCRUM Multitasking vermieden?
+
+Bei SCRUM werden einzelne Aufgaben in höherem Tempo und mit geringerem Aufwand bewältigt und konkrete Sprints festgelegt. Dadurch werden Leerlauf-Zeiten und unnötiges Multitasking vermieden.
+
+## Praxis-Transferaufgabe
+
+### 1) Erläutern Sie ein Projektvorhaben in Ihrem Unternehmen. Beschreiben Sie das Projekt in wenigen Sätzen anhand der relevanten Merkmale. Analysieren Sie anhand des gewählten Projektes, welche internen oder externen Triebkräfte dieses ausgelöst haben. Was sind die Hintergründe der Notwendigkeit der Veränderung/Verbesserung/Anpassung/Entwicklung und welche Probleme haben dazu geführt?
+
+
+
+### 2) Erstellen Sie einen Projektstrukturplan für ein Projekt Ihrer Wahl. Erläutern Sie hierbei auch, warum Sie sich für einen speziellen Typus entschieden haben und die grundsätzliche Wichtigkeit eines PSP
+
+Der Projektstrukturplan (PSP) ist die wichtigste Projektmanagement-Methode und mit dem Inhaltsverzeichnis eines Buches vergleichbar. Auf verschiedenen Gliederungsebenen werden die Inhalte bzw. Leistungen des Projektes in Form eines Baumdiagramms dargestellt. Somit kann sich jedes Teammitglied ein Bild – Big Picture – vom Inhalt des Projekts machen.
+Die Inhalte bzw. Leistungen des Projektes sind in Form von Arbeitspaketen abgebildet. Bei Arbeitspaketen handelt es sich um Bündel von Aufgaben, die innerhalb des Projekts zu erfüllen sind. Ein Arbeitspaket ist also mehr als eine einzelne Aufgabe, aber weniger als eine Projektphase oder das ganze Projekt.
+
+Der PSP unterteilt das Projekt in einzelne, hierarchische Teilpakete. Der PSP muss bei jedem Projekt erstellt werden. 
+
+### 3) Unterscheiden Sie die Begriffe „kompliziert“ und „komplex“ voneinander. Bereiten Sie eine Erläuterung der Begriffe an einem Beispiel aus Ihrer beruflichen Praxis vor. Diskutieren Sie die Auswirkungen von Komplexität auf das Projektmanagement
+
+Kompliziertes ist mit ausreichendem Wissen darüber beherrschbar. Mit dem richtigen Wissen ist das Verhalten vorhersehbar. Kompliziertheit ist also relativ. Für den Laien ist eine mechanische Uhr extrem kompliziert, für den versierten Uhrmacher dagegen einfach. Anders ausgedrückt: Kompliziertheit ist ein Maß für Unwissenheit. Sie verschwindet durch Lernen.
+
+Komplexität ist das Maß für die Menge der Überraschungen, mit denen man rechnen muss. Theoretisch (und praktisch) beeinflusst der Flügelschlag eines Schmetterlings in Florida durch die entstehende Luftbewegung das Wetter in der Pfalz. Und da sich die unzähligen Variablen, die unser Wetter bestimmen, nicht nur schwer erfassen, sondern auch nicht vorhersagen lassen, ist Wetter eben komplex.
