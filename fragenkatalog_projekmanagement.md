@@ -633,7 +633,7 @@ Anpassung: Die Anforderungen an das Produkt werden nicht ein und für alle Mal f
 
 ## 44) Wie wird in SCRUM Multitasking vermieden?
 
-Bei SCRUM werden einzelne Aufgaben in höherem Tempo und mit geringerem Aufwand bewältigt und konkrete Sprints festgelegt. Dadurch werden Leerlauf-Zeiten und unnötiges Multitasking vermieden.
+Bei SCRUM werden einzelne Aufgaben in möglichst kleine Bruchstücke (Tasks) aufgeteilt und konkrete Sprints festgelegt. Dadurch werden Leerlauf-Zeiten und Multitasking vermieden.
 
 ## Praxis-Transferaufgabe
 
